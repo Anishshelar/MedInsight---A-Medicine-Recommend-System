@@ -1,0 +1,4 @@
+echo "Your license text here" > LICENSE
+git add LICENSE
+git commit -m "Added LICENSE file"
+git push origin main  # Change 'main' if your branch is different
